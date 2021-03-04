@@ -1,0 +1,26 @@
+UUT NAME,Max UUT Voltage,Max UUT Current,JTAG,ETHERNET Channels,Num Differential pairs,NI SCOPE,DAQ 6289 analog inputs,DAQ 6289 analog outputs,DAQ digital I/O,RS232,RS422,I2C,No of Direct connection to scope need,FORM C USW,No of DC supply need,USB,Astronics 6943 Low DIO,Astronics 6944 High DIO,DC E-LOAD,Number of pins 1A<2A,Number of pins >2A,High current lines >6A,FPGA card
+Event Recorder T4000,52.5,1,0,4,0,0,0,0,0,0,2,0,0,4,1,0,0,12,0,0,0,0,0
+Mechanical assembly SITA,48,0.4,1,4,0,0,0,0,0,1,0,3,0,1,1,4,0,0,0,0,0,0,0
+SEN_SITAA PCB,48,0.3,1,2,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+SEN_EXETA PCB,42.5,1,0,2,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0
+Mechanical assembly M-DRSCA,48,1,1,2,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,15
+Mechanical assembly DICA,60,1,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,12,0,72,0,0,0
+Crash Protected Memory (CHMM),5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Cab console reading light,6,1.5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Reading light controller,42.5,0.65,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
+Headlight / Taillight (L),52.5,1,0,0,0,0,0,0,0,0,0,0,0,6,3,0,0,2,0,0,0,0,0
+HLTL Driver PCB,52.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HL LED Module,2.8,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Headlight / Taillight (R),52.5,1,0,0,0,0,0,0,0,0,0,0,0,6,3,0,0,2,0,0,0,0,0
+Carrier Board,12,0.5,0,1,0,2,0,0,1,2,0,0,2,0,2,0,2,0,0,0,0,0,0
+Power Supply,53,1,0,0,0,0,0,0,0,0,0,0,0,8,2,0,0,10,1,0,0,0,0
+Low voltage Board,42.5,1,0,0,3,1,1,2,0,0,0,0,0,15,4,0,4,2,1,0,0,0,0
+Gateway Board,15,1,1,4,0,1,0,0,0,0,0,0,2,0,1,0,7,0,0,0,0,0,0
+HV Module,60,30,1,0,0,1,0,2,0,0,0,0,0,3,5,0,4,0,3,0,0,7,0
+HV70 Input Board,60,30,1,0,0,1,0,2,0,0,0,0,0,3,5,0,4,0,3,0,0,7,0
+KTM40 Driver Board,15,1,1,0,4,1,2,2,0,0,0,0,0,1,1,0,0,2,0,0,0,0,0
+CPU Board,15,1,1,1,20,1,20,20,40,0,1,0,2,32,3,1,40,40,0,0,0,0,0
+Power Supply  Board,42.5,2,0,0,0,2,0,0,0,0,0,0,2,20,5,0,23,0,2,0,4,0,0
+AGTU Extension Board,15,1,1,0,0,1,0,0,0,0,0,0,0,2,3,0,16,1,4,0,0,0,0
+INV Driver Board,15,0.5,1,0,1,1,2,2,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0
+INV Power Board,2,0.5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
